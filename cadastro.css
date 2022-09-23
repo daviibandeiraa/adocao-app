@@ -80,7 +80,8 @@ button{
     text-align: center;
     color: #FFFFFF;
     padding: 0px;
-    margin: 0px;
+    margin-left: auto;
+    margin-right: auto;
     
 
 }
@@ -94,10 +95,13 @@ button{
     text-align: center;
     color: white ;
     background-color:#ADADAD;
-    display: flex;
+    display: block;
     justify-content: center;
     align-items: center;
-    right:px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    
 
   
 }
